@@ -20,7 +20,8 @@ A useful resource are the [Overleaf Tutorials](https://www.overleaf.com/learn).
 
 ## Evaluation
 
-You will be given time near the end of the second course day on November 20th to fill out the evaluation. You can find it by scanning the QR code below or by going here: 
+You will be given time near the end of the second course day on November 20th to fill out the evaluation. You can find it by scanning the QR code below or by going here: https://evasys.unibas.ch/evasys/online.php?p=MET57
+![QRCode_Evaluation_LaTex](https://github.com/user-attachments/assets/bc02b6ca-40b0-46a9-9312-6efebdee6c5c)
 
 
 Thank you for taking the time to complete the evaluation!
